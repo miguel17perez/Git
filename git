@@ -1,0 +1,2 @@
+git remote add origin https://github.com/miguel17perez/e-Programa-git
+git remote -v
